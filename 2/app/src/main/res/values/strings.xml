@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">moneyflow</string>
+    <string name="เพิ่มรายการ">เพิ่มรายการ</string>
+    <string name="textview">TextView</string>
+    <string name="ประเภท">ประเภท</string>
+    <string name="รายรับ">รายรับ</string>
+    <string name="รายจ่าย">รายจ่าย</string>
+    <string name="รายการ">รายการ</string>
+    <string name="จำนวนเงิน">จำนวนเงิน</string>
+    <string name="บันทึก">บันทึก</string>
+    <string name="ลบ">ลบ</string>
+</resources>
